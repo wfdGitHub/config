@@ -97,11 +97,11 @@
   ],
 
   "levels": {
-    "rpc-log" : "info",
-    "forward-log": "info",
-    "rpc-debug" : "info",
-    "pomelo" : "info",
-    "pomelo-rpc" : "info"
+    "rpc-log" : "DEBUG",
+    "forward-log": "DEBUG",
+    "rpc-debug" : "DEBUG",
+    "pomelo" : "DEBUG",
+    "pomelo-rpc" : "DEBUG"
   },
 
   "replaceConsole": true,
